@@ -21,3 +21,7 @@ sh pdf_merger.sh
 ```
 sh pdf_merger_GUI.sh
 ```
+# Dependencies
+```
+pip install pypdf
+```
